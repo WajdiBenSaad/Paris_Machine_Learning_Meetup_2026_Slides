@@ -6,6 +6,9 @@ Slides from my talk at the [Paris Machine Learning Meetup](https://www.meetup.co
 > It is the one that knows when it has enough evidence,
 > when it needs a tool, and when it should stay silent.
 
+![Paris ML Meetup talk](/media/img1.jpg)
+
+![Paris ML Meetup talk](/media/img2.jpg)
 ## About the talk
 
 The story of building a search-based assistant for customer-service knowledge — templates, PDFs, operational rules, structured store data — and the practical decisions needed to make it reliable in production.
